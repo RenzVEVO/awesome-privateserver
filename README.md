@@ -42,6 +42,7 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
     * [Snowbreak: Containment Zone (2023)](#snowbreak-containment-zone-2023)
     * [Stella Sora (2025)](#stella-sora-2025)
     * [Wuthering Waves (2024)](#wuthering-waves-2024)
+    * [Yu-Gi-Oh! Master Duel (2022)](#yu-gi-oh-master-duel-2022)
     * [Zenless Zone Zero (2024)](#zenless-zone-zero-2024)
     * [World Flipper (2019)](#world-flipper-2019)
     * [World of Warcraft (2004)](#world-of-warcraft-2004)
@@ -334,6 +335,14 @@ Different server implementations will be categorized by the games that they're u
 * 🟥 [Wicked Waifus](https://git.xeondev.com/wickedwaifus/wicked-waifus-rs) `Rust/AGPL-3.0`
 * 🟩 [Zigrika](https://git.xeondev.com/WavyRooms/zigrika) `Zig/ARR`
     * 🟩 [Noteworthy fork](https://git.xeondev.com/TheOrangeBee/zigrika-stuffthatsnotsmart)
+
+---
+
+### Yu-Gi-Oh! Master Duel (2022)
+> [!NOTE]
+> Developed and published by Konami Digital Entertainment.
+
+* 🟩 [YgoMaster](https://github.com/pixeltris/YgoMaster) `C#/MIT`
 
 ---
 
